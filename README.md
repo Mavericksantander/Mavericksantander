@@ -6,6 +6,7 @@ class JoseTomas:
     building    = ["Canopy Runtime", "NTU (Now Take Unity)"]
     background  = ["military ops", "commercial execution", "self-taught dev"]
     focus       = "High-stakes systems. Constrained environments. Long-term infrastructure."
+    status      = "Actively shipping"
 ```
 
 ---
@@ -13,17 +14,21 @@ class JoseTomas:
 ### What I'm building
 
 **[Canopy Runtime](https://github.com/Mavericksantander/Canopy)**
-Runtime authorization layer for AI agents. Deterministic pre-execution control and tamper-evident forensics.
+Pre-execution governance layer for AI agents. Every action is authorized before it reaches the real world.
 ```
-authorize_action() -> ALLOW | DENY | REQUIRE_APPROVAL
+authorize_action(agent_ctx, action_type, payload)
+-> ALLOW | DENY | REQUIRE_APPROVAL
 ```
 
+Constitution → Civil Code → Firewall → Policy YAML → hash-chained audit trail with AVID identity.
+Apache 2.0. Self-hostable. No vendor lock-in.
+
 **NTU — Now Take Unity**
-Orbital infrastructure strategy. Launch capacity constraints, spaceport development, and the Atacama as a strategic launch location.
+Orbital infrastructure strategy focused on launch capacity constraints in the global space economy. Thesis: launch capacity is the primary bottleneck. Proposed solution: a shared, multi-vehicle "landlord" model. Current focus: Cóndor Spaceport and the Atacama Desert as a strategic launch location. Institutional partner: Asociación de Industriales de Antofagasta.
 
 ---
 
-### Stack & Tools
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-gateway-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -35,10 +40,20 @@ Orbital infrastructure strategy. Launch capacity constraints, spaceport developm
 
 ### Background
 
-- Logistics and operations under pressure — including Estallido Social and COVID-19 emergency response, Ejército de Chile
-- B2B commercial execution across high-demand environments 
-- UN-affiliated certifications in peacekeeping operations
+**Chilean Army** — military ops, three deployments, UN peacekeeping ops certified.
 
+Deployed during Chile's Constitutional State of Exception (October 2019), wildfire emergency brigades (BRIFES), field medical assistance, and COVID-19 crisis response.
+
+> Diploma de Honor — conferred by General Ricardo Martínez Menanteau, Commander in Chief of the Chilean Army, September 15, 2020. Recognized for outstanding commitment during states of constitutional exception, emergency response, and field medical operations.
+
+> Medalla al Mérito por Valores Humanos y Mejor Compañero — Rotary Club. Awarded for exemplary conduct and values demonstrated during military service.
+
+---
+
+**Other**
+- **Space Legacy** — pre-seed startup, IncubaUDD program. Shut it down on purpose when the market wasn't there.
+- **Soluciones Integrales del Norte** — co-founder, B2B commercial lead, logistics and contract negotiation
+- Law school dropout. Political science dropout. Self-taught everything that matters.
 
 ---
 
