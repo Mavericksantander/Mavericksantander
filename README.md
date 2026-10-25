@@ -1,68 +1,101 @@
-```python
-class JoseTomas:
-    name        = "José Tomás Santander"
-    location    = "Chile"
-    role        = "Founder — AI Governance & Infrastructure Systems"
-    building    = ["Canopy Runtime", "NTU (Now Take Unity)"]
-    background  = ["military ops", "commercial execution", "self-taught dev"]
-    focus       = "High-stakes systems. Constrained environments. Long-term infrastructure."
-    status      = "Actively shipping"
-```
+# José Tomás Santander
+
+**Founder — PRÆTOR TECHNOLOGIES**  
+AI Governance · Industrial Infrastructure · Autonomous Systems · Chile
+
+Building technology for systems where authorization, operational reliability, and control matter. From industrial logistics to autonomous systems and strategic infrastructure.
+
+Focused on shipping software, validating commercial demand, and building the foundations for long-term infrastructure.
 
 ---
 
-### What I'm building
+### What I'm building at PRÆTOR TECHNOLOGIES
 
-**[Canopy Runtime](https://github.com/Mavericksantander/Canopy)**
-Pre-execution governance layer for AI agents. Every action is authorized before it reaches the real world.
-```
-authorize_action(agent_ctx, action_type, payload)
--> ALLOW | DENY | REQUIRE_APPROVAL
-```
+[**PRÆTORE**](https://github.com/Mavericksantander/praetore)
 
-Constitution → Civil Code → Firewall → Policy YAML → hash-chained audit trail with AVID identity.
-Apache 2.0. Self-hostable. No vendor lock-in.
+Deterministic authorization and governance infrastructure for AI agents and autonomous systems.
 
-**NTU — Now Take Unity**
-Orbital infrastructure strategy focused on launch capacity constraints in the global space economy. Thesis: launch capacity is the primary bottleneck. Proposed solution: a shared, multi-vehicle "landlord" model. Current focus: Cóndor Spaceport and the Atacama Desert as a strategic launch location. Institutional partner: Asociación de Industriales de Antofagasta.
+PRÆTORE evaluates authorization requests against explicit identity, delegated authority, and policy constraints. Its architecture is designed to reject unauthorized requests by default and produce verifiable decision evidence.
+
+The objective is to make authorization an enforceable system property, not an instruction delegated to the agent itself.
+
+Core principles:
+
+- Explicit identity and authority
+- Policy-based authorization
+- Fail-closed decision-making
+- Least-privilege execution
+- Verifiable decision evidence
+
+**PRÆTOR FleetOps**
+
+Operational intelligence for industrial logistics.
+
+A B2B SaaS platform designed to structure operational events across industrial transport workflows, connecting field activity with operational visibility and traceability.
+
+The commercial focus is practical: solve expensive operational problems, integrate into existing workflows, and establish recurring revenue before expanding into more complex systems.
+
+**Strategic Space Infrastructure**
+
+A long-term infrastructure initiative within PRÆTOR TECHNOLOGIES, focused on developing space access capabilities from Chile.
+
+The vision centers on the strategic potential of the Atacama Desert as a launch location, addressing launch capacity constraints and the infrastructure requirements of a growing global space economy.
+
+Long-term areas of exploration include launch infrastructure, autonomous operations, and orbital logistics, including the capture, processing, and potential reuse of orbital debris.
+
+**Strategic focus:** Cóndor Spaceport and the Atacama Desert.  
+**Institutional engagement:** Asociación de Industriales de Antofagasta.
 
 ---
 
-### Stack
+### Technical Focus
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-gateway-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-canopy--runtime-blue?style=flat-square&logo=pypi&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache_2.0-green?style=flat-square)
-![CI](https://img.shields.io/github/actions/workflow/status/Mavericksantander/Canopy/ci.yml?style=flat-square&label=CI)
+Current engineering interests:
+
+- Deterministic authorization for AI agents
+- Cryptographic integrity and auditable execution
+- Systems that fail safely under uncertainty
+- Industrial operational intelligence
+- Infrastructure for autonomous platforms
+
+Rust is the foundation of PRÆTORE's authorization core. Python provides an integration interface, while PostgreSQL supports the replay adapter.
 
 ---
 
 ### Background
 
-**Chilean Army** — military ops, three deployments, UN peacekeeping ops certified.
+**Chilean Army** — Military operations, field medical assistance, and emergency response.
 
-Deployed during Chile's Constitutional State of Exception (October 2019), wildfire emergency brigades (BRIFES), field medical assistance, and COVID-19 crisis response.
+Three deployments, with certification in United Nations peacekeeping operations.
 
-> Diploma de Honor — conferred by General Ricardo Martínez Menanteau, Commander in Chief of the Chilean Army, September 15, 2020. Recognized for outstanding commitment during states of constitutional exception, emergency response, and field medical operations.
+Experience includes deployment during Chile's Constitutional State of Exception in October 2019, wildfire emergency brigades (BRIFES), field medical assistance, and the COVID-19 response.
 
-> Medalla al Mérito por Valores Humanos y Mejor Compañero — Rotary Club. Awarded for exemplary conduct and values demonstrated during military service.
+> **Diploma de Honor** — Conferred by General Ricardo Martínez Menanteau, Commander in Chief of the Chilean Army, on September 15, 2020. Recognition for commitment during constitutional emergencies, emergency response, and field medical operations.
+
+> **Medalla al Mérito por Valores Humanos y Mejor Compañero** — Rotary Club. Recognition for conduct and human values demonstrated during military service.
 
 ---
 
-**Other**
-- **Space Legacy** — pre-seed startup, IncubaUDD program. Shut it down on purpose when the market wasn't there.
-- **Soluciones Integrales del Norte** — co-founder, B2B commercial lead, logistics and contract negotiation
-- Law school dropout. Political science dropout. Self-taught everything that matters.
+### Previous Ventures
+
+**Space Legacy** — Pre-seed space startup associated with the IncubaUDD program. Discontinued after reassessing market timing and commercial viability.
+
+**Soluciones Integrales del Norte** — Co-founder and B2B commercial lead, working across industrial logistics and contract negotiation.
+
+**Independent engineering** — Building software with modern development tools, learning by shipping, and iterating against real operational requirements.
+
+Law school dropout. Political science dropout. Self-taught engineer by practice.
 
 ---
 
 ### Principles
 
-- Infrastructure is the constraint that determines what's possible.
-- Governance without enforcement is just documentation.
+- Governance without enforcement is documentation.
+- Authorization must be explicit, not assumed.
+- Infrastructure determines what can be built on top of it.
+- Commercial validation is part of engineering.
 - Build for the long term. Ship in the short term.
 
 ---
 
-> *Two tracks. One thesis: the systems that matter most are the ones nobody thinks to govern until something breaks.*
+*One company, multiple horizons: operational software for today's industrial problems, governance infrastructure for autonomous systems, and strategic infrastructure for the future.*
