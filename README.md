@@ -1,24 +1,18 @@
-<div align="center">
-
-```text
-██████╗ ██████╗  ██████╗ ███████╗████████╗ ██████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
-██████╔╝██████╔╝██████╔╝ █████╗     ██║   ██║   ██║██████╔╝
-██╔═══╝ ██╔══██╗██╔═══██╗██╔══╝     ██║   ██║   ██║██╔══██╗
-██║     ██║  ██║██║   ██║███████╗   ██║   ╚██████╔╝██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-
-                 T E C H N O L O G I E S
-          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-       SOVEREIGN TECHNOLOGY · AUTONOMOUS SYSTEMS
-             AI GOVERNANCE · INFRASTRUCTURE
-
-              THE FUTURE IS NOT IMPORTED.
-                THE FUTURE MATTERS.
-
-                         CHILE
-```
+<pre align="center">
++--------------------------------------------------+
+|                                                  |
+|                  P R A E T O R                 |
+|              T E C H N O L O G I E S           |
+|                                                  |
+|      SOVEREIGN TECHNOLOGY  /  AUTONOMOUS SYSTEMS |
+|            AI GOVERNANCE  /  INFRASTRUCTURE      |
+|                                                  |
+|          THE FUTURE IS NOT IMPORTED.             |
+|             THE FUTURE MATTERS.                  |
+|                       CHILE                      |
+|                                                  |
++--------------------------------------------------+
+</pre>
 
 # José Tomás Santander
 
