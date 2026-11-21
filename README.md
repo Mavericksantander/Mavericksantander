@@ -41,30 +41,6 @@ PRÆTORE evaluates authorization requests against explicit identity, delegated a
 
 ---
 
-### PRÆTOR FleetOps
-
-**Operational intelligence for industrial logistics.**
-
-A B2B SaaS platform designed to structure operational events across industrial transport workflows, connecting field activity with operational visibility and traceability.
-
-The commercial focus is practical: solve expensive operational problems, integrate into existing workflows, and establish recurring revenue before expanding into more complex systems.
-
----
-
-### Strategic Space Infrastructure
-
-A long-term infrastructure initiative within PRÆTOR TECHNOLOGIES, focused on developing space access capabilities from Chile.
-
-The vision centers on the strategic potential of the Atacama Desert as a launch location, addressing launch capacity constraints and the infrastructure requirements of a growing global space economy.
-
-Long-term areas of exploration include launch infrastructure, autonomous operations, and orbital logistics—including the capture, processing, and potential reuse of orbital debris.
-
-| **Strategic focus** | Cóndor Spaceport and the Atacama Desert |
-|:--|:--|
-| **Institutional engagement** | Asociación de Industriales de Antofagasta |
-
----
-
 ## Technical Focus
 
 Current engineering interests:
